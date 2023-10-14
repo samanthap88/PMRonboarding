@@ -4,7 +4,7 @@ export default function Qr() {
     return (
         <body>
             <div id = "container">
-                <img id = "qrcode" src="image-qr-code.png"/> 
+                <img id = "qrcode" src="/Users/sampang/Desktop/PM ready task 1/image-qr-code.png"/> 
                 <div id = "textLabels">
                     <p id = "boldedText">Improve your front-end<br/>skills by building projects</p>
                     <p id = "nonBoldedText">Scan the QR code to visit Frontend<br />
